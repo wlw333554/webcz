@@ -28,6 +28,8 @@ PianoTrans：[点我下载(阿里云盘)](https://www.aliyundrive.com/s/CLnB26tg
 
 Goddess体验版：[点我下载(蓝奏云密码:8mq2，不能下载与我无关)](https://wwen.lanzout.com/i7Ubw32boaja)
 
+
+
 ## Typora破解教程
 
 1.在官网下载最新版Typora：[官网](https://typoraio.cn/)
@@ -89,7 +91,7 @@ Goddess体验版：[点我下载(蓝奏云密码:8mq2，不能下载与我无关
 
 ## 音频转MIDI
 
-### 方法①：使用PianoTrans（还原度高）
+方法①：使用PianoTrans（还原度高）
 
 1.打开PianoTrans，打不开就去目录开或者以管理员身份运行(我的win11就这样😡)
 
@@ -97,21 +99,21 @@ Goddess体验版：[点我下载(蓝奏云密码:8mq2，不能下载与我无关
 
 **tips**:生成的mid文件存放在原始的音频文件目录😅
 
-### 方法②：使用网页在线生成
+方法②：使用网页在线生成
 
-#### 网页Ⅰ：[Basic Pitch: An open source MIDI converter from Spotify - Demo](https://basicpitch.spotify.com/)
+网页Ⅰ：[Basic Pitch: An open source MIDI converter from Spotify - Demo](https://basicpitch.spotify.com/)
 
 Tips：这个比较适合乐器很多的
 
-#### 网页Ⅱ：[将MP3转换成MIDI-音频转换器](https://audio-convert.com/cn/mp3-converter/mp3-to-midi)
+网页Ⅱ：[将MP3转换成MIDI-音频转换器](https://audio-convert.com/cn/mp3-converter/mp3-to-midi)
 
 Tips：这个会把任何细节还原，没事建议别用
 
-#### 网页Ⅲ：[音频转MIDI-在线AI扒谱工具](https://qr9.net/audio-to-midi)
+网页Ⅲ：[音频转MIDI-在线AI扒谱工具](https://qr9.net/audio-to-midi)
 
 Tips：这个会把钢琴细节更还原一些
 
-### 总结
+总结
 
 建议用PianoTrans或者网页Ⅲ，亲测好用
 
