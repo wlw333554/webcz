@@ -1,28 +1,28 @@
 # 关于本站
 
-> ⚠️本站由**哔哩哔哩** @乗芷 搭建，采用docsfiy、github。未经允许不可擅自转发！！！
+> ⚠️本站由**哔哩哔哩** @乗芷 搭建，采用docsfiy、github。未经允许不可擅自转发！！！😤
 >
 > md编辑：Typora
 >
-> 虽然说这个页面很小，但是是托管在GitHub上面的
+> 虽然说这个页面很小，但是是托管在GitHub上面的😋
 >
 > ## 个人联系方式
 
-mail：wulitian2@outlook.com、wulitian2@gmail.com、18065180083@163.com
+mail📫：wulitian2@outlook.com、wulitian2@gmail.com、18065180083@163.com
 
-WeChat💬：H-Wu5301(备注来意）     QQ：2158924331(备注来意)     可以找我聊天🥰
+WeChat💬：H-Wu5301(备注来意）     QQ🐧：2158924331(备注来意)     可以找我聊天🥰
 
-QQ🐧群：519183126                        GitHub：wlw333554             项目：czweb
+QQ🐧群：519183126                        GitHub🐱：wlw333554             项目🖊：czweb
 
 # 应用寻找
 
-watt toolkit：[点我下载(蓝奏云密码：1234)](https://wwn.lanzouy.com/b01v4iz1g)
+watt toolkit⚙：[点我下载(蓝奏云密码：1234)](https://wwn.lanzouy.com/b01v4iz1g)
 
 Typora(破解版)：[点我下载(蓝奏云密码：54dj)](https://wwen.lanzout.com/iM5Zl32bb4jg)
 
 PianoTrans：[点我下载(阿里云盘)](https://www.aliyundrive.com/s/CLnB26tgkqS)
 
-この雪が解けるまで：[点我下载(蓝奏云密码:47ha，不能下载与我无关)](https://wwen.lanzout.com/i7cIf32bndud)
+この雪が解けるまで❄：[点我下载(蓝奏云密码:47ha，不能下载与我无关)](https://wwen.lanzout.com/i7cIf32bndud)
 
 龍舌蘭体验版：[点我下载(蓝奏云网盘密码：28dk,不能下载与我无关)](https://wwen.lanzout.com/b00hr1hzba)
 
@@ -32,9 +32,15 @@ FastCopy：[点我下载(蓝奏云密码：密码:7i3b)](https://wwen.lanzout.co
 
 MiSide(无语音、默认语言为中文)：[点我下载(123云盘)](https://www.123684.com/s/kcFRjv-Vl7wd)
 
-MiSide补丁：[语言包(蓝奏云密码：9h1u)](https://wwen.lanzout.com/iyyLA32cakqj)  /  [语音包①(中文123云盘)](https://www.123684.com/s/kcFRjv-T77wd)  [语言包②(英日文蓝奏云密码:88um)
+MiSide补丁：[语言包(蓝奏云密码：9h1u)](https://wwen.lanzout.com/iyyLA32cakqj)  /  [语音包①(中文123云盘)](https://www.123684.com/s/kcFRjv-T77wd)  [语言包②(英日文蓝奏云密码:88um)](https://wwen.lanzout.com/irkxQ32cblid)
 
-Buckshot Roulette：[点我下载(123云盘)](https://www.123684.com/s/kcFRjv-d77wd)
+Buckshot Roulette2.2.0：[点我下载(123云盘)](https://www.123684.com/s/kcFRjv-d77wd)
+
+SVFI 3.2.0:[点我下载(123网盘)](https://www.123684.com/s/kcFRjv-377wd)
+
+NTLite破解版：[点我下载(蓝奏云密码：59by)](https://wwen.lanzout.com/iIJMH32cimoh)
+
+DiskGenius破解版：[点我下载(蓝奏云密码：f95w)](https://wwen.lanzout.com/iQZbr32cj0ob)
 
 ## Typora破解教程
 
