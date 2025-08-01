@@ -20,6 +20,8 @@ watt toolkit：[点我下载(蓝奏云密码：1234)](https://wwn.lanzouy.com/b0
 
 Typora(破解版)：[点我下载(蓝奏云密码：54dj)](https://wwen.lanzout.com/iM5Zl32bb4jg)
 
+PianoTrans：[点我下载(阿里云盘)](https://www.aliyundrive.com/s/CLnB26tgkqS)
+
 ## Typora破解教程
 
 1.在官网下载最新版Typora：[官网](https://typoraio.cn/)
@@ -76,3 +78,33 @@ Typora(破解版)：[点我下载(蓝奏云密码：54dj)](https://wwen.lanzout.
 `}, 360); // 360 毫秒后关闭弹窗`
 
 6.没了
+
+# 音乐杂项
+
+## 音频转MIDI
+
+### 方法①：使用PianoTrans（还原度高）
+
+1.打开PianoTrans，打不开就去目录开或者以管理员身份运行(我的win11就这样😡)
+
+然后他会自动跳出来一个框，如果没有就点击 Add files to queue ,之后选择音频文件，耐心等待完成
+
+**tips**:生成的mid文件存放在原始的音频文件目录😅
+
+### 方法②：使用网页在线生成
+
+#### 网页Ⅰ：[Basic Pitch: An open source MIDI converter from Spotify - Demo](https://basicpitch.spotify.com/)
+
+Tips：这个比较适合乐器很多的
+
+#### 网页Ⅱ：[将MP3转换成MIDI-音频转换器](https://audio-convert.com/cn/mp3-converter/mp3-to-midi)
+
+Tips：这个会把任何细节还原，没事建议别用
+
+#### 网页Ⅲ：[音频转MIDI-在线AI扒谱工具](https://qr9.net/audio-to-midi)
+
+Tips：这个会把钢琴细节更还原一些
+
+### 总结
+
+建议用PianoTrans或者网页Ⅲ，亲测好用
