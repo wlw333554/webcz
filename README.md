@@ -4,7 +4,7 @@
 >
 > md编辑：Typora
 >
-> <img src="C:\Users\嗯对🥰\AppData\Roaming\Typora\typora-user-images\image-20250801114858059.png" alt="image-20250801114858059" style="zoom:80%;" />
+> <img src="C:\Users\嗯对🥰\docs\Photo\peo.png" alt="peo"  />
 
 ## 个人联系方式
 
