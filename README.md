@@ -408,3 +408,92 @@ X：https://x.com/lidyriders
 
 待续...
 
+## 其他
+
+疑似公开mixi账号：https://mixi.jp/show_friend.pl?id=1817389&route_trace=010000300000
+
+[AudioLeaf音乐](https://www.audioleaf.com/consider)
+
+关于CONSIDER的专辑：《GENESIS / CONSIDER》(寻回)、《Slow Mellow / CONSIDER》（丢失）、《LUKEWARM/CONSIDER DER》（丢失）
+
+在[2010春M3展览](https://www.m3net.jp/event/2010s.php#a01)上出现了CONSIDER的参展单位、由此连接到个人网站(by wz632 in 20250608)
+
+[muzie平台页面（已失效）](https://web.archive.org/web/20070427231925/http://www.muzie.co.jp/cgi-bin/artist.cgi?id=a049287)
+
+【[网站名：空中楼阁](https://sakka.yukigesho.com/nov/shizuna.html)】原创小说作者：咲華老师给她的小说作品《诗砂》写了印象曲
+
+【[网站名：孤独人类的生存方式](http://solitas.web.fc2.com/link.html)】原创小说作者：如月憂海/猜测她曾与老师有过网上联系，说老师是行事利索，性格有趣好相处的人
+
+【[网站名：Innocent Devil](http://ibaraindex.michikusa.jp/base.html)】原创诗歌作者：荊棘 葵/站主主页使用了老师的《捧歌》（群文件houka.mid）作为bgm
+
+一个flash游戏https://web.archive.org/web/20070522034536/http://moonsong.pinoko.jp/
+
+可以看到[consider老师2004~2006年参与的作品列表](https://web.archive.org/web/20060827080439/http://torio.tk.to/consider/work.html)，更改快照的时间点还可以看到2007年的，不过这张快照最全、含委托人链接且排版最好。
+
+我调查了一下，发现以下几个作品能找到线索：
+
+1.“死神図書館	课题用语音剧CD	弓束成重	十一曲	2006”
+
+由弓束这个姓，以及成重（なるしげ）和しげる的相似度可以推测这位弓束成重就是推特为@yuduka_s的弓束しげる老师。
+
+​            2.     "guardianprincess	游戏BGM	水瀬えるも/ぴてな工房	数十曲	2006"
+
+https://web.archive.org/web/20071017192803/http://pitena.net/ 最初由水瀬えるも主导开发，后交给社团ぴてな工房发行。ぴてな工房于07年解散，同时宣布该游戏因为种种原因终止发售，因而胎死腹中。水瀬えるも依然在进行音乐方面的活动，推特(@eruerue)最新一条是2025年3月，内容是成功登陆了以前的邮箱。
+
+​            3.     "ねこみみおばけっこシリーズ	数字绘本	雛世・ふたせかえで	第一作：七曲；第二作：四曲；第三作：五曲；第四作：四曲	2006"
+
+https://www.suruga-ya.jp/product/detail/186052841 其中一作骏河屋有货！
+
+​           4.     "作品名未定	Windows平台RPG	東真哉	六曲	2004"	https://www.vector.co.jp/vpack/browse/person/an010106.html 
+
+委托人東 真哉发布的作品合集，正在“作品名未定”是指哪一部。
+
+可能是指开发多年的「剑与少年」  开発中    剣と少年と（仮题） ※RPGツクールXP作品。  开発进捗状况 ６０％http://hp.vector.co.jp/authors/VA010106/ 在Software最底部
+
+但是从2011年起，这部作品便消失了，不知是终止开发还是什么。而同一时期开发的ARCANUM则顺利发布。
+
+ 5.龍舌蘭原创同人游戏体验版 eclipse65 五曲 2006
+
+https://www.suruga-ya.jp/product/detail/186070648 骏河屋有货！
+
+根据调查，CONSIDER曾在骏河屋上售卖的东西：
+
+「龍舌蘭」 eclipse65様 オリジナル同人ゲーム体験版(五曲)
+
+ 配布履歴
+
+コミックマーケット71(06年)
+
+「紅☆えるもーど」 水瀬えるも様 オリジナルボーカルCD(二曲)
+
+■配布履歴
+
+通販
+
+M3-2005秋(05年)
+
+「ねこみみおばけっこシリーズ」 雛世様 デジタル絵本
+
+■配布履歴
+
+通販
+
+Comic Revolution 35(04年春)
+
+Comic Revolution 36(04年秋)
+
+コミケットスペシャル４(05年)
+
+サンシャインクリエイション28(05年)
+
+コミックマーケット68(05年
+
+Consider在torio.tk.to这个域名里，有三个音乐网站：
+
+■ 鳥音(本家) http://torio.tk.to/torio.html
+
+ ■ CONSIDER(MIDI) http://torio.tk.to/consider/
+
+■ RoyalFamily(版権) http://torio.tk.to/500500/RF/rfindex.html
+
+以上全来自QQ寻找群：1051070531，如有进展，请联系我
