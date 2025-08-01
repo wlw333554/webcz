@@ -6,11 +6,13 @@
 >
 > 虽然说这个页面很小，但是是托管在GitHub上面的😋
 >
+> 如果有问题或者失效的链接请联系我
+>
 > ## 个人联系方式
 
-mail📫：wulitian2@outlook.com、wulitian2@gmail.com、18065180083@163.com
+mail📫：wulitian2@outlook.com(主要)、wulitian2@gmail.com、18065180083@163.com
 
-WeChat💬：H-Wu5301(备注来意）     QQ🐧：2158924331(备注来意)     可以找我聊天🥰
+WeChat💬：H-Wu5301(备注来意）     QQ🐧：2158924331(主要)(备注来意)     可以找我聊天🥰
 
 QQ🐧群：519183126                        GitHub🐱：wlw333554             项目🖊：czweb
 
@@ -18,9 +20,9 @@ QQ🐧群：519183126                        GitHub🐱：wlw333554             
 
 watt toolkit⚙：[点我下载(蓝奏云密码：1234)](https://wwn.lanzouy.com/b01v4iz1g)
 
-Typora(破解版)：[点我下载(蓝奏云密码：54dj)](https://wwen.lanzout.com/iM5Zl32bb4jg)
+Typora(破解版)🖊：[点我下载(蓝奏云密码：54dj)](https://wwen.lanzout.com/iM5Zl32bb4jg)
 
-PianoTrans：[点我下载(阿里云盘)](https://www.aliyundrive.com/s/CLnB26tgkqS)
+PianoTrans🎹：[点我下载(阿里云盘)](https://www.aliyundrive.com/s/CLnB26tgkqS)
 
 この雪が解けるまで❄：[点我下载(蓝奏云密码:47ha，不能下载与我无关)](https://wwen.lanzout.com/i7cIf32bndud)
 
@@ -34,13 +36,15 @@ MiSide(无语音、默认语言为中文)：[点我下载(123云盘)](https://ww
 
 MiSide补丁：[语言包(蓝奏云密码：9h1u)](https://wwen.lanzout.com/iyyLA32cakqj)  /  [语音包①(中文123云盘)](https://www.123684.com/s/kcFRjv-T77wd)  [语言包②(英日文蓝奏云密码:88um)](https://wwen.lanzout.com/irkxQ32cblid)
 
-Buckshot Roulette2.2.0：[点我下载(123云盘)](https://www.123684.com/s/kcFRjv-d77wd)
+Buckshot Roulette2.2.0😈：[点我下载(123云盘)](https://www.123684.com/s/kcFRjv-d77wd)
 
 SVFI 3.2.0:[点我下载(123网盘)](https://www.123684.com/s/kcFRjv-377wd)
 
 NTLite破解版：[点我下载(蓝奏云密码：59by)](https://wwen.lanzout.com/iIJMH32cimoh)
 
 DiskGenius破解版：[点我下载(蓝奏云密码：f95w)](https://wwen.lanzout.com/iQZbr32cj0ob)
+
+Vmware17：[点我下载(123云盘)](https://www.123684.com/s/kcFRjv-E77wd)
 
 ## Typora破解教程
 
@@ -500,3 +504,38 @@ Consider在torio.tk.to这个域名里，有三个音乐网站：
 ■ RoyalFamily(版権) http://torio.tk.to/500500/RF/rfindex.html
 
 以上全来自QQ寻找群：1051070531，如有进展，请联系我
+
+# Windows
+
+## 删除某文件需要TrustedInstaller权限
+
+1、右击要删除的文件
+
+2、点击第三个“**安全**”，在安全界面点击“**高级**”
+
+3、在弹出的界面点击“所有者：TrustedInstaller”后的“ 更改 ” 按钮
+
+4、在弹出的“选择用户或组”界面点左下方的“**高级**”按钮
+
+5、点击中间的“**立即查找**”，在下面选第二个Administrator**s**，记得是带有**s**的
+
+7、点击确定按钮，再勾上“**点击替换子容器和对象的所有者**”
+
+8、在返回来的界面再次选择“**高级**”按钮
+
+9、点击”**更改设置**”
+
+10、选择“**Administrators**”之后点击“**编辑**”
+
+11、选上“**完全控制**”，返回一路点击确定就可以了，之后删除就可以了
+
+## DOS命令rd用于删除文件夹
+
+1. 删除空文件夹：`rd folder01`
+
+2. 删除非空文件夹：`rd /s folder01`
+
+3. 批量删除指定的文件夹：`for /d %a in (folder*) do rd /s %a`
+4. 删除指定文件夹及其内容，但不删除根目录：`rd /q /s folder01\\*`
+
+5. 删除指定文件夹及其内容，但不输出删除进度信息：`rd /s /q folder01`
