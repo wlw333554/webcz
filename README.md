@@ -32,7 +32,9 @@ FastCopy：[点我下载(蓝奏云密码：密码:7i3b)](https://wwen.lanzout.co
 
 MiSide(无语音、默认语言为中文)：[点我下载(123云盘)](https://www.123684.com/s/kcFRjv-Vl7wd)
 
-MiSide补丁：[语言包(蓝奏云密码：9h1u)](https://wwen.lanzout.com/iyyLA32cakqj)  /  [语音包①(中文123云盘)](https://www.123684.com/s/kcFRjv-T77wd)  [语言包②(英日文蓝奏云密码:88um)](https://wwen.lanzout.com/irkxQ32cblid)
+MiSide补丁：[语言包(蓝奏云密码：9h1u)](https://wwen.lanzout.com/iyyLA32cakqj)  /  [语音包①(中文123云盘)](https://www.123684.com/s/kcFRjv-T77wd)  [语言包②(英日文蓝奏云密码:88um)
+
+Buckshot Roulette：[点我下载(123云盘)](https://www.123684.com/s/kcFRjv-d77wd)
 
 ## Typora破解教程
 
