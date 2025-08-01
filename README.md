@@ -28,7 +28,11 @@ PianoTrans：[点我下载(阿里云盘)](https://www.aliyundrive.com/s/CLnB26tg
 
 Goddess体验版：[点我下载(蓝奏云密码:8mq2，不能下载与我无关)](https://wwen.lanzout.com/i7Ubw32boaja)
 
+FastCopy：[点我下载(蓝奏云密码：密码:7i3b)](https://wwen.lanzout.com/iCm1i32c9tri)
 
+MiSide(无语音、默认语言为中文)：[点我下载(123云盘)](https://www.123684.com/s/kcFRjv-Vl7wd)
+
+MiSide补丁：[语言包(蓝奏云密码：9h1u)](https://wwen.lanzout.com/iyyLA32cakqj)  /  [语音包①(中文123云盘)](https://www.123684.com/s/kcFRjv-T77wd)  [语言包②(英日文蓝奏云密码:88um)](https://wwen.lanzout.com/irkxQ32cblid)
 
 ## Typora破解教程
 
@@ -36,20 +40,9 @@ Goddess体验版：[点我下载(蓝奏云密码:8mq2，不能下载与我无关
 
 2.点击开始15天试用，然后关闭
 
-3.找到Typora安装目录，打开Typora\resources\window.html文件 在< head > 标签后加上以下代码：
+3.打开Typora\resources\page-dist\static\js\Licenselndex.****.****.chunk.js文件，进入后用ctrl+f 查找：`e.hasActivated="true"==e.hasActivated,`，将其改为：`e.hasActivated="true",`
 
-<style>
-         /* 选择 body 下一级的所有具有 role="button" 的 div，但排除那些在 content 内部的 div[role="button"] */
-         /* body > div[role="button"]:not(content div[role="button"]) 存在冗余 */
-         /* body > div[role="button"] 已经限定了选择 body 的直接子元素 div，并且这些 div 具有 role="button" 属性。 */
-         /* :not(content div[role="button"]) 试图排除某些元素，但由于 content div[role="button"] 不是 body 的直接子元素，这部分实际上没有效果。 */
-         body>div[role="button"] {
-             visibility: hidden;
-         }
- </style>
-4.打开Typora\resources\page-dist\static\js\Licenselndex.****.****.chunk.js文件，进入后用ctrl+f 查找：`e.hasActivated="true"==e.hasActivated,`，将其改为：`e.hasActivated="true",`
-
-5.找到Typora\resources\page-dist\static\js\0.99879679.chunk.js文件(未测)
+4.找到Typora\resources\page-dist\static\js\0.99879679.chunk.js文件(未测)
 在第二行添加如下代码：
 
 `// 创建一个新的 div 元素`
