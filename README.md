@@ -10,11 +10,11 @@
 >
 > ## 个人联系方式
 
-mail📫：wulitian2@outlook.com(主要)、wulitian2@gmail.com、18065180083@163.com
+mail📫：wulitian2@outlook.com
 
-WeChat💬：H-Wu5301(备注来意）     QQ🐧：2158924331(主要)(备注来意)     ~~可以找我聊天🥰~~
+WeChat💬：H-Wu5301(备注来意）     QQ🐧：2158924331(主要)(备注来意)  
 
-QQ🐧群：51918312
+我的QQ🐧群：51918312
 
 # 应用寻找(<u>**Tip:单文件才显示占用**</u>)
 
@@ -507,7 +507,26 @@ Consider在torio.tk.to这个域名里，有三个音乐网站：
 
 ■ RoyalFamily(版権) http://torio.tk.to/500500/RF/rfindex.html
 
-以上全来自QQ寻找群：1051070531，如有进展，请联系我
+以上全来自QQ寻找群：1051070531
+
+# QQ群友寻人网站及汇报
+
+Bojvsky : consider.homes
+                 considerfans.pgw.jp
+
+老黄：www.tuu.ddns-ip.net
+
+多多(哔哩哔哩：冰湖-IceLake)：torio.mydns.jp/
+
+邮箱：
+
+我：wulitian2@outlook.com
+
+Bojvsky：bojvsky@outlook.com
+
+老黄：HuangGe0721@outlook.com
+
+QQ群：1051070531
 
 # Windows
 
