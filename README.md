@@ -1,8 +1,6 @@
 # 关于本站
 
-> ⚠️本站由**哔哩哔哩** @乗芷 搭建，采用docsfiy、github。未经允许不可擅自转发！！！😤
->
-> md编辑：Typora（别问为什么不插入图片，问就是不会）
+> ⚠️本站由**哔哩哔哩** @乗芷 搭建，采用docsfiy、github。未经允许不可擅自转发！！！
 >
 > 虽然说这个页面很小，但是是托管在GitHub上面的😋
 >
@@ -13,8 +11,6 @@
 mail📫：wulitian2@outlook.com
 
 WeChat💬：H-Wu5301(备注来意）     QQ🐧：2158924331(主要)(备注来意)  
-
-我的QQ🐧群：51918312
 
 # 应用寻找(<u>**Tip:单文件才显示占用**</u>)
 
@@ -50,6 +46,10 @@ MiSide补丁：[语言包(蓝奏云密码：9h1u)](https://wwen.lanzout.com/iyyL
 
 191M ] balenaEtcher：[点我下载(Github直链)](https://release-assets.githubusercontent.com/github-production-release-asset/45055693/00fd414f-4dd3-42b8-b750-e7b264059775?sp=r&sv=2018-11-09&sr=b&spr=https&se=2025-08-01T16%3A33%3A24Z&rscd=attachment%3B+filename%3DbalenaEtcher-2.1.4.Setup.exe&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2025-08-01T15%3A32%3A55Z&ske=2025-08-01T16%3A33%3A24Z&sks=b&skv=2018-11-09&sig=TI9mVmLfVMFxKxSuGHYGTIE7hf0D66lKBXZpqPwdDAo%3D&jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc1NDA2MzYxNCwibmJmIjoxNzU0MDYzMzE0LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.s0dsQQvDq4BcURMO7vh09xKen4B3JWvEzxCoB18h6HE&response-content-disposition=attachment%3B%20filename%3DbalenaEtcher-2.1.4.Setup.exe&response-content-type=application%2Foctet-stream)
 
+9M ] JJQQKK VPN（手机）：[点我下载(蓝奏云密码：5kyz，解压完压缩包要把exe后缀改为APK)](https://chengzh.lanzout.com/iTdND32ictza)
+
+37M ] 起飞 VPN （手机）:[点我下载(蓝奏云密码：密码:bxjr，解压完压缩包要把exe后缀改为APK)](https://chengzh.lanzout.com/iM5Ae32idv5i)
+
 ## Typora破解教程
 
 1.在官网下载最新版Typora：[官网](https://typoraio.cn/)
@@ -59,7 +59,7 @@ MiSide补丁：[语言包(蓝奏云密码：9h1u)](https://wwen.lanzout.com/iyyL
 3.打开Typora\resources\page-dist\static\js\Licenselndex.****.****.chunk.js文件，进入后用ctrl+f 查找：`e.hasActivated="true"==e.hasActivated,`，将其改为：`e.hasActivated="true",`
 
 ~~4.找到Typora\resources\page-dist\static\js\0.99879679.chunk.js文件(未测)~~
-在第二行添加如下代码：![]()
+在第二行添加如下代码：
 
 `// 创建一个新的 div 元素`
 `var div = document.createElement('div');`
@@ -134,7 +134,7 @@ Tips：这个会把钢琴细节更还原一些
 
 网名：CONSIDER、Kae、坂木カエ
 
-生日：1981.11.15
+生日：1980.11.15
 
 擅长：音乐
 
@@ -509,7 +509,7 @@ Consider在torio.tk.to这个域名里，有三个音乐网站：
 
 以上全来自QQ寻找群：1051070531
 
-# QQ群友寻人网站及汇报
+## QQ群友寻人网站及汇报
 
 Bojvsky : consider.homes
                  considerfans.pgw.jp
