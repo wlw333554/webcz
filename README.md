@@ -30,7 +30,7 @@ watt toolkit⚙：[下载(蓝奏云密码：1234)](https://wwn.lanzouy.com/b01v4
 
 2.4 M ] FastCopy：[下载(蓝奏云密码：密码:7i3b)](https://wwen.lanzout.com/iCm1i32c9tri)
 
-573M ] MiSide(无语音、默认语言为中文)：[点我下载(123云盘)](https://www.123684.com/s/kcFRjv-Vl7wd)
+573M ] MiSide(无语音、默认语言为中文)：[下载(123云盘)](https://www.123684.com/s/kcFRjv-By7wd)
 
 ||MiSide补丁：[语言包(蓝奏云密码：9h1u)](https://wwen.lanzout.com/iyyLA32cakqj)  /  [语音包①(中文123云盘)](https://www.123684.com/s/kcFRjv-T77wd)  [语言包②(英日文蓝奏云密码:88um)](https://wwen.lanzout.com/irkxQ32cblid)
 
@@ -46,7 +46,7 @@ watt toolkit⚙：[下载(蓝奏云密码：1234)](https://wwn.lanzouy.com/b01v4
 
 10M ] Assetaudio中文版：[下载(蓝奏云密码：5vo2)](https://chengzh.lanzout.com/izlVv32cxqvi)
 
-191M ] balenaEtcher：[下载(Github直链)](https://release-assets.githubusercontent.com/github-production-release-asset/45055693/00fd414f-4dd3-42b8-b750-e7b264059775?sp=r&sv=2018-11-09&sr=b&spr=https&se=2025-08-01T16%3A33%3A24Z&rscd=attachment%3B+filename%3DbalenaEtcher-2.1.4.Setup.exe&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2025-08-01T15%3A32%3A55Z&ske=2025-08-01T16%3A33%3A24Z&sks=b&skv=2018-11-09&sig=TI9mVmLfVMFxKxSuGHYGTIE7hf0D66lKBXZpqPwdDAo%3D&jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc1NDA2MzYxNCwibmJmIjoxNzU0MDYzMzE0LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.s0dsQQvDq4BcURMO7vh09xKen4B3JWvEzxCoB18h6HE&response-content-disposition=attachment%3B%20filename%3DbalenaEtcher-2.1.4.Setup.exe&response-content-type=application%2Foctet-stream)
+191M ] balenaEtcher：[下载(OneDrive)]([balenaEtcher_v1.7.2.exe](https://1drv.ms/u/c/5aa9cd9a97363461/EUJibVqxzAhDhd-64t3h018BNNc3AIPdqzUDDcOQ6fagyA?e=SX3VBD))
 
 9M ] JJQQKK VPN（手机）：[下载(蓝奏云密码：5kyz，解压完压缩包要把exe后缀改为APK)](https://chengzh.lanzout.com/iTdND32ictza)
 
@@ -54,7 +54,9 @@ watt toolkit⚙：[下载(蓝奏云密码：1234)](https://wwn.lanzouy.com/b01v4
 
 2.3M ] Plain Craft Launcher 2 ：[下载(蓝奏云密码:24xh)](https://chengzh.lanzout.com/iLC94330n7he)
 
-# 音乐杂项
+586M ] 冰与火之舞 ：[下载(直链)](https://pan.easeans.com/f/d/3js1/A.Dance.of.Fire.and.Ice.7z)
+
+# 音乐
 
 ## 音频转MIDI
 
