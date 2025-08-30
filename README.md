@@ -50,15 +50,59 @@ watt toolkit⚙：[下载(蓝奏云密码：1234)](https://wwn.lanzouy.com/b01v4
 
 この雪が解けるまで❄：[下载](https://wwen.lanzout.com/i7cIf32bndud)
 
-586M ] 冰与火之舞 ：[下载(直链)](https://pan.easeans.com/f/d/3js1/A.Dance.of.Fire.and.Ice.7z)
-
-2.3M ] Plain Craft Launcher 2 ：[下载(蓝奏云密码:24xh)](https://chengzh.lanzout.com/iLC94330n7he)
-
 龍舌蘭：[下载(28dk)](https://wwen.lanzout.com/b00hr1hzba)
 
 Goddess：[下载(8mq2)](https://wwen.lanzout.com/i7Ubw32boaja)
 
-# CONSIDER老师调查进展（25/8/8
+### 正常
+
+586M ] 冰与火之舞 ：[下载(直链)](https://pan.easeans.com/f/d/3js1/A.Dance.of.Fire.and.Ice.7z)
+
+2.3M ] Plain Craft Launcher 2 ：[下载(蓝奏云密码:24xh)](https://chengzh.lanzout.com/iLC94330n7he)
+
+## 音乐
+
+***[CONSIDER](https://torio.mydns.jp/archive/torio.tk.to/consider/)***
+
+①音乐：[下载(123网盘)](https://www.123684.com/s/kcFRjv-B9bwd)
+
+②MML工程文件：[下载(蓝奏密码:9x34)](https://chengzh.lanzout.com/iJRl434vah8j)
+
+***[空色音箱](https://web.archive.org/web/20161015070332/http://soraoto7.fc2web.com/)***
+
+[MID音乐：下载(蓝奏密码:fhgm)](https://chengzh.lanzout.com/iwBNO33stwfg)
+
+***[唄い鳥](http://singingbird.client.jp/)***
+
+音乐：[下载(蓝奏密码:dkr3)](https://chengzh.lanzout.com/iyu5533mtnyf)
+
+[***WindSphere***](https://windsphere.biz/)
+
+音乐：[下载(蓝奏密码:6s4i)](https://chengzh.lanzout.com/ibjaG336e7ti)
+
+***[Ramine](http://2ram.com/)***
+
+音乐：[下载(蓝奏密码:empc)](https://chengzh.lanzout.com/iMpgE33sreyf)
+
+[***炼狱庭园***](https://rengoku-teien.com/)
+
+音乐：[下载(123网盘)](https://www.123684.com/s/kcFRjv-I9bwd)
+
+## 镜像
+
+## 自己瞎搞
+
+32GB ] 我自己做哒)MaliciousOS10：https://www.123684.com/s/kcFRjv-M9bwd
+
+## 树莓派4专用
+
+lineage20：[下载(123网盘)](https://www.123684.com/s/kcFRjv-w9bwd)
+
+FydeOS20：[下载(123网盘)](https://www.123684.com/s/kcFRjv-g9bwd)
+
+## Windows原版
+
+# CONSIDER调查进展（25/8/8
 
 ## CONSIDER老师个人简介
 
