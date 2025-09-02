@@ -1,4 +1,4 @@
-# 关于本站
+# 关于本文档
 
 > 这个页面是托管在GitHub上面的😋
 >
@@ -15,6 +15,8 @@
 mail📫：wulitian2@outlook.com
 
  QQ🐧：2158924331(主要)(备注来意)  
+
+[TOC]
 
 # 资源
 
@@ -46,17 +48,21 @@ watt toolkit⚙：[下载(蓝奏云密码：1234)](https://wwn.lanzouy.com/b01v4
 
 ## 游戏
 
-### Galgame(憋举报我😭)
+### Galgame
 
-この雪が解けるまで❄：[下载](https://wwen.lanzout.com/i7cIf32bndud)
+[***Yuniu***](yuniu.web.fc2.com)
 
-龍舌蘭：[下载(28dk)](https://wwen.lanzout.com/b00hr1hzba)
+この雪が解けるまで(停止发布)：[下载](https://developer-oss.lanrar.com/file/?CG5Rbws6Dj9SWwoyUWRQPFplBDxVcwVyAm5UO1RsUjxTOFdlDGACeAhuVjBTKVYlU2gCdVYvB2MLZVQ+UWgDXQhhUWILaw5oUjEKblE2UGZaNAQ5VT0FMgIjVDRUe1JuU2FXMwxlAmYIZ1Y1UzFWZVMvAndWeQc4Cz5UYlE/AzcIJ1E2C28OdVI0Cm5RKlBhWmEEZVU/BTQCMVRiVDlSNlNiVzgMNQI1CG5WN1MxVm9TbQIyVmwHMAs0VGZRbgM6CG1RYwtuDm1SZQo4UTxQf1pyBGBVeAUhAnBUIVRtUiFTOldkDGwCZQhtVjZTPlZmUz0CM1YvB3ELZVQ/UWgDZAg1UTcLYQ5vUjIKZFE0UGZaMwQwVTIFKQIrVHRUblI/UyRXPQxhAnAIK1ZwU3BWalM4AjBWPAczCzRUY1E4AzoIOlEwC3AOL1JtCixROFBgWjEEM1UkBTMCPFR8VDlSZFNlVy4MZQJuCHBWJlNjVjhTfgJpVlYHZgtnVG9RPQMsCC5RcgsvDipSYQoDUXBQMFo9BDE=)
 
-Goddess：[下载(8mq2)](https://wwen.lanzout.com/i7Ubw32boaja)
+Lethe：[下载](https://183-232-114-114.pd1.cjjd19.com:30443/download-cdn.cjjd19.com/123-1020/26ba7ad3/1826406674-0/26ba7ad3c2b54b103ec953dd742703fc/c-m42?v=5&t=1756903073&s=175690307327675316e1921c410a07dda2b9de3380&r=L34SOT&bzc=2&bzs=313832363430363637343a33353231393332303a3130353333323731343a31383236343036363734&bzp=0&bi=3833007429&filename=Lethe.7z&x-mf-biz-cid=643bdd12-6936-4625-bb4e-1a802eb9b6e6-584000&ndcp=1&cache_type=1&xmfcid=648bf0a1-f96b-4023-89a0-cabd9f26bd78-0-50111d3b1)
 
-### 正常
+------
 
-586M ] 冰与火之舞 ：[下载(直链)](https://pan.easeans.com/f/d/3js1/A.Dance.of.Fire.and.Ice.7z)
+龙舌兰：[下载(官网exe)](https://183-232-114-112.pd1.cjjd19.com:30443/download-cdn.cjjd19.com/123-603/8a1b7f9d/1826406674-0/8a1b7f9da4c9d275fd646e95f7fbf65b/c-m12?v=5&t=1756902453&s=1756902453592df1859266eaddcd5fa3deb6e00b48&r=T7DECA&bzc=2&bzs=313832363430363637343a33353231393331393a3137343135363935333a31383236343036363734&bzp=0&bi=3833007429&filename=ryuzetsuran_hairin.7z&x-mf-biz-cid=0d7f7252-6fcd-4dd0-b70c-0d3393963a7b-c4937c&ndcp=1&cache_type=1&xmfcid=17106b58-bf93-495a-a8e0-e15c768386e1-1-50111d3b1)  [下载(exe)](https://developer-oss.lanrar.com/file/?UDYGOFprBzZRWAc/VGFTPwc4VGxX4VbqC4FTvVCEW9YI4AbJD/9S4gniAcRW6wCpU5oG5FOFVtwKI1ZnV3FSdVA2Bjhaawc2UVgHOFRkU28Hb1RlVz9WYAs1U2BQOltsCDsGdw80UnUJYgFiVjYANlM8BjRTPlZiCjVWdld7UiNQbQZjWjcHYVEyB35UMFNqB3JUYVc5VnsLaVNlUDxbbgg5BmgPZ1IwCTkBM1YyADlTagYyU2lWbApoVmBXM1I3UDYGZFo3B2FRMwdgVGFTZgdoVDBXOVZnCyJTYlB2W3wIfQYiDzdSdAk2ATNWPwAyUzoGNVM1VmUKOVZkVy1SJ1A5BjxaYgc1UToHYFQ3U2cHa1RpVzlWYgs5U2NQO1t0CCYGdw80UmoJKAFqVjIAJ1N8BnNTe1ZpCjxWZ1c+UmdQYAZiWjUHa1EzB2BUJlMnBzRUIVc1VmULPVNnUCJbbggxBn8PY1IxCWkBeVY2ADlTJwYlU2hWOwp6Vj5XVFIwUDsGbFo3B31RIQclVHlTIgc4VA5XfVY1CzFTZQ==) [下载(mdx)](https://developer-oss.lanrar.com/file/?BGIFOwo7BTQJAAU9U2ZWOlZpBj4Fs1frAIpXuVKGV9pVvVeYXKwFtVK5Cs8AvQavUptSsATSAIpVHwFDUlZXeAQzBSgKcQU3CTYFP1NiVghWZQZnBWdXZwAzV2ZSOldvVWBXN1wwBWNSIgo6ACcGOlI9UmMEYwA3VWIBNVI/V2MEIgUiCicFbAltBWNTNVZiViMGMwViV3oAN1dgUiFXYlVhVzBcYgU1UjUKZABiBjRSalJkBDgAO1UxATZSN1dvBGEFNwo0BTIJPgVmUzdWY1Y4BjcFbVdjADBXZlI5V3hVYld6XCcFJFJ3CjkAJgZuUmxSagRoADFVZAE+Uj9XYgQwBXQKIwU4CTIFNlNhVmpWPQY0BW9XYwA/V2BSOVdnVWFXMFwvBX9SIgo6ADgGcFI1UmYEbAA3VWQBP1I/V2MEMQViCmAFdwkqBSNTcFZqVj0GNAVvV2EAN1diUjxXblVjVzlcJwUkUm0KLABpBjZSOVJlBHUANlVrASlSP1dhBDIFfApjBWkJcQV1U2NWOFZ7Bm0FBVc2AGxXbFI+V3hVc1d0XHgFIVJhCgMAIQZmUjVSZw==)
+
+------
+
+**正常**
 
 2.3M ] Plain Craft Launcher 2 ：[下载(蓝奏云密码:24xh)](https://chengzh.lanzout.com/iLC94330n7he)
 
@@ -68,21 +74,31 @@ Goddess：[下载(8mq2)](https://wwen.lanzout.com/i7Ubw32boaja)
 
 ②MML工程文件：[下载(蓝奏密码:9x34)](https://chengzh.lanzout.com/iJRl434vah8j)
 
+------
+
 ***[空色音箱](https://web.archive.org/web/20161015070332/http://soraoto7.fc2web.com/)***
 
 [MID音乐：下载(蓝奏密码:fhgm)](https://chengzh.lanzout.com/iwBNO33stwfg)
+
+------
 
 ***[唄い鳥](http://singingbird.client.jp/)***
 
 音乐：[下载(蓝奏密码:dkr3)](https://chengzh.lanzout.com/iyu5533mtnyf)
 
+------
+
 [***WindSphere***](https://windsphere.biz/)
 
 音乐：[下载(蓝奏密码:6s4i)](https://chengzh.lanzout.com/ibjaG336e7ti)
 
+------
+
 ***[Ramine](http://2ram.com/)***
 
 音乐：[下载(蓝奏密码:empc)](https://chengzh.lanzout.com/iMpgE33sreyf)
+
+------
 
 [***炼狱庭园***](https://rengoku-teien.com/)
 
@@ -94,11 +110,15 @@ Goddess：[下载(8mq2)](https://wwen.lanzout.com/i7Ubw32boaja)
 
 32GB ] 我自己做哒)MaliciousOS10：https://www.123684.com/s/kcFRjv-M9bwd
 
+------
+
 ## 树莓派4专用
 
 lineage20：[下载(123网盘)](https://www.123684.com/s/kcFRjv-w9bwd)
 
 FydeOS20：[下载(123网盘)](https://www.123684.com/s/kcFRjv-g9bwd)
+
+------
 
 ## Windows原版
 
