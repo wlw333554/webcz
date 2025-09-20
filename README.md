@@ -48,13 +48,15 @@ watt toolkit⚙：[下载(蓝奏云密码：1234)](https://wwn.lanzouy.com/b01v4
 
 ## 游戏
 
-### Galgame
+### galgame
 
 Onedrive全部分流①：[查看](https://1drv.ms/f/c/5aa9cd9a97363461/Ej1si-R8KKRCjB1zCZJaAvcBh-hHeIRGH2SvjASZfNcoJw?e=U9HKB8)
 
+腾讯文档所有游戏：[查看](https://docs.qq.com/doc/DSmZsVmhkSXBQdGFj)
+
 [***Yuniu***](https://yuniu.web.fc2.com)
 
-この雪が解けるまで(停止发布)：[下载](https://1drv.ms/u/c/5aa9cd9a97363461/EbkvlLyCkoxAqj8pSZ3saDcBtJRBTVefWJsWP4bfJra-jA?e=A1Vkij)
+この雪が解けるまで(停止发布) 0：[下载](https://1drv.ms/u/c/5aa9cd9a97363461/EbkvlLyCkoxAqj8pSZ3saDcBtJRBTVefWJsWP4bfJra-jA?e=A1Vkij)
 
 Lethe：[下载](https://1drv.ms/u/c/5aa9cd9a97363461/EWHgslYOkgBLoNKvuGMJ1f8BrXn0WjJsuVogbef4Ok3WUA?e=U5UrfF)
 
@@ -72,9 +74,11 @@ Paranoid～addicted to you～：[下载](https://1drv.ms/u/c/5aa9cd9a97363461/ES
 
 ------
 
-龙舌兰：[下载](https://1drv.ms/u/c/5aa9cd9a97363461/EWZuJME-NfRDg11i2BqFiOQBhyvktuA4GZ2ZVmDFVGh6vg?e=3Jws4T)
+龙舌兰  0：[下载](https://1drv.ms/u/c/5aa9cd9a97363461/EWZuJME-NfRDg11i2BqFiOQBhyvktuA4GZ2ZVmDFVGh6vg?e=3Jws4T)
 
-月の守：[下载](https://1drv.ms/u/c/5aa9cd9a97363461/EQoYhBJpB-ZLsvf9wBcOBz8BlFxXGZtVMxyvrOSPVdmr6Q?e=5hlPaJ)
+月の守：[下载](https://1drv.ms/u/c/5aa9cd9a97363461/EQoYhBJpB-ZLsvf9wBcOBz8BlFxXGZtVMxyvrOSPVdmr6Q?e=5hlPaJ
+
+Goddess(彻底失传) 0：[下载](https://chengzh.lanzn.com/ivbRY365k69a)
 
 ------
 
@@ -86,7 +90,7 @@ Paranoid～addicted to you～：[下载](https://1drv.ms/u/c/5aa9cd9a97363461/ES
 
 ***[CONSIDER](https://torio.mydns.jp/archive/torio.tk.to/consider/)***
 
-①音乐：[下载(123网盘)](https://www.123684.com/s/kcFRjv-B9bwd)
+①音乐：[下载(123网盘)](https://www.123684.com/s/kcFRjv-xpbwd)
 
 ②MML工程文件：[下载(蓝奏密码:9x34)](https://chengzh.lanzout.com/iJRl434vah8j)
 
@@ -94,31 +98,59 @@ Paranoid～addicted to you～：[下载](https://1drv.ms/u/c/5aa9cd9a97363461/ES
 
 ***[空色音箱](https://web.archive.org/web/20161015070332/http://soraoto7.fc2web.com/)***
 
-[MID音乐：下载(蓝奏密码:fhgm)](https://chengzh.lanzout.com/iwBNO33stwfg)
+MID音乐：[下载](https://chengzh.lanzn.com/ieiFa35ipn3i)
 
 ------
 
-***[唄い鳥](http://singingbird.client.jp/)***
+***[唄い鳥](http://singingbird.client.jp/)*** 0
 
 音乐：[下载(蓝奏密码:dkr3)](https://chengzh.lanzout.com/iyu5533mtnyf)
 
 ------
 
-[***WindSphere***](https://windsphere.biz/)
+[***WindSphere***](https://windsphere.biz/) 0
 
 音乐：[下载(蓝奏密码:6s4i)](https://chengzh.lanzout.com/ibjaG336e7ti)
 
 ------
 
-***[Ramine](http://2ram.com/)***
+***[Ramine](http://2ram.com/)*** 0
 
-音乐：[下载(蓝奏密码:empc)](https://chengzh.lanzout.com/iMpgE33sreyf)
+音乐：[下载](https://chengzh.lanzn.com/iAF7u35ipvwf)
 
 ------
 
-[***炼狱庭园***](https://rengoku-teien.com/)
+[***炼狱庭园***](https://rengoku-teien.com/) 0
 
 音乐：[下载(123网盘)](https://www.123684.com/s/kcFRjv-I9bwd)
+
+------
+
+[ＭＩＤＩ素材集のぺえじ](http://music.pinky.ne.jp/)
+
+音乐：[下载(网盘密码：5x2d)](https://chengzh.lanzoup.com/iNCSM35vr8bg)
+
+------
+
+[WithR](http://web.archive.org/web/20151029003918/http://music.geocities.jp/withr17/gloomy.html)
+音乐：[下载](https://chengzh.lanzn.com/iQYg7365l70d)
+
+------
+
+[秋月香夜](https://web.archive.org/web/20050205090854/http://moonsong.pinoko.jp/index.htm)
+音乐：[下载](https://chengzh.lanzn.com/i9txh362y5vc)（密码：270e）
+
+------
+
+[SOUND IMAGE](http://web.archive.org/web/20170311150159/http://soundimage.aki.gs/)
+
+音乐：下载
+
+------
+
+[TRISTEZA](http://tristeza.web.fc2.com/) 0
+
+音乐：[下载](https://www.123684.com/s/kcFRjv-IBbwd)
 
 ## 镜像
 
